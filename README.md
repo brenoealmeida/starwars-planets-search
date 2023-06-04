@@ -1,7 +1,9 @@
-Projeto Front-End em JavaScript - Star Wars Planets
+# Projeto Front-End em JavaScript - Star Wars Planets
 
 Este projeto front-end em JavaScript utiliza a API de Star Wars para exibir informações sobre os planetas da saga. A aplicação permite visualizar e filtrar os planetas com base em diferentes critérios, como nome e valores numéricos relacionados a cada planeta.
-Funcionalidades
+
+
+## Funcionalidades
 1. Requisição e exibição dos dados dos planetas
 
     Realiza uma requisição para o endpoint /planets da API de Star Wars.
